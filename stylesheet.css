@@ -63,3 +63,9 @@ h2{
 	width:260px;
 	clear: right;
 }
+#footer{
+	background-color:#5c755e; 
+	margin:10px;
+	height: 60px;
+	clear: both;
+}
