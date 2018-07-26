@@ -1,3 +1,5 @@
+/*================LAYOUT SECTION ====================  */
+
 body{
 	background-color:#9c9f84;
 	margin:0px;
@@ -26,14 +28,7 @@ body{
 	font-size:110%;
 	border-radius: 5px;
 }
-h1{
-	font-size: 120%;
-	color:#ce282e;
-}
-h2{
-	font-size: 120%;
-	color:darkblue;
-}
+
 .imagesidebar{
 	width:300px;
 	border-radius: 5px;
@@ -67,4 +62,13 @@ h2{
 	margin:10px;
 	height: 60px;
 	clear: both;
+}
+/*================HEADINGS SECTION ====================  */
+h1{
+	font-size: 120%;
+	color:#ce282e;
+}
+h2{
+	font-size: 120%;
+	color:darkblue;
 }
